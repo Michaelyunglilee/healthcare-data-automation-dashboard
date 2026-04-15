@@ -23,7 +23,7 @@ Manual reporting from weekly EHR reports was time-consuming and inefficient.
 ## Tools Used
 - Google Sheets
 - Pivot Tables
-- Advanced formulas
+- Advanced formulas (FILTER, QUERY, ARRAYFORMULA)
 
 ## Impact
 - Eliminated manual reporting
