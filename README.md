@@ -4,7 +4,7 @@
 Built an automated data pipeline using Google Sheets to transform raw EHR reports into real-time dashboards.
 
 ## Dashboard Overview
-![Dashboard](Main_Dashboard.png)
+![Dashboard](Main Dashboard.png)
 
 ## Problem
 Manual reporting from weekly EHR reports was time-consuming and inefficient.
