@@ -7,6 +7,7 @@ Built an automated data pipeline using Google Sheets to transform raw EHR report
 ![Dashboard](Main_Dashboard.png)
 ![Dashboard](Graph1.png)
 ![Dashboard](Graph2.png)
+![Dashboard](Individual_Dashboard.png)
 ## Problem
 Manual reporting from weekly EHR reports was time-consuming and inefficient.
 
