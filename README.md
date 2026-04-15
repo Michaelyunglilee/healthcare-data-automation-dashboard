@@ -1,6 +1,3 @@
-# healthcare-data-automation-dashboard
-Automated Google Sheets dashboard system for healthcare analytics
-
 # Healthcare Data Automation & Dashboard System
 
 ## Overview
