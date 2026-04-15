@@ -14,8 +14,8 @@ Built an automated data pipeline using Google Sheets to transform raw EHR report
 ![Dashboard](No_Show_Patient_Finder.png)
 
 ## Raw Data Input (EHR Export)
-![Raw Data](data.png)
-
+![Raw Data](Raw_Data_From_EHR.png)
+![Array Formula](Array_Formulas.png)
 ## Problem
 Manual reporting from weekly EHR reports was time-consuming and inefficient.
 
